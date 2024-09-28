@@ -42,11 +42,11 @@ const Hero = () => {
                 <a href='https://twitter.com/' target='_blank'>
                     <img src={twitterIcon} alt='twitter Icon' />
                 </a>
-                <a href='https://github.com/' target='_blank'>
+                <a href='https://github.com/Gagandeep075' target='_blank'>
                     <img src={githubIcon} alt='github Icon' />
                 </a>
 
-                <a href='https://linkdin.com/' target='_blank'>
+                <a href='https://www.linkedin.com/in/gagandeep-singh-77a2ab25a/' target='_blank'>
                     <img src={linkdinIcon} alt='linkdin Icon' />
                 </a>
 

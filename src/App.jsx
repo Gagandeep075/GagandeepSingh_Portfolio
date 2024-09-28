@@ -5,7 +5,7 @@ import Skills from './Skills/Skills';
 import Footer from './Footer/Footer';
 import Parallax from './Parallax/Parallax';
 import Contact from './Contact/Contact';
-import Portfolio from './Skills/Portfolio/Portfolio';
+import Portfolio from './Portfolio/Portfolio'
 function App() {
   
   return (
